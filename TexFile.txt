@@ -1,0 +1,646 @@
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyGreen}{}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyGreen}{}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyGreen}{}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyGreen}{fill=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyGreen}{fill=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyGreen}{fill=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyGreen}{pattern=horizontal lines,pattern color=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyGreen}{pattern=horizontal lines,pattern color=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyGreen}{pattern=horizontal lines,pattern color=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyViolet}{}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyViolet}{}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyViolet}{}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyViolet}{fill=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyViolet}{fill=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyViolet}{fill=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyViolet}{pattern=horizontal lines,pattern color=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyViolet}{pattern=horizontal lines,pattern color=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyViolet}{pattern=horizontal lines,pattern color=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyOrange}{}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyOrange}{}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyOrange}{}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyOrange}{fill=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyOrange}{fill=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyOrange}{fill=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyOrange}{pattern=horizontal lines,pattern color=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyOrange}{pattern=horizontal lines,pattern color=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\rhomb{MyOrange}{pattern=horizontal lines,pattern color=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyGreen}{}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyGreen}{}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyGreen}{}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyGreen}{fill=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyGreen}{fill=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyGreen}{fill=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyGreen}{pattern=horizontal lines,pattern color=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyGreen}{pattern=horizontal lines,pattern color=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyGreen}{pattern=horizontal lines,pattern color=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyViolet}{}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyViolet}{}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyViolet}{}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyViolet}{fill=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyViolet}{fill=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyViolet}{fill=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyViolet}{pattern=horizontal lines,pattern color=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyViolet}{pattern=horizontal lines,pattern color=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyViolet}{pattern=horizontal lines,pattern color=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyOrange}{}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyOrange}{}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyOrange}{}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyOrange}{fill=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyOrange}{fill=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyOrange}{fill=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyOrange}{pattern=horizontal lines,pattern color=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyOrange}{pattern=horizontal lines,pattern color=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\NotCircle{MyOrange}{pattern=horizontal lines,pattern color=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyGreen}{}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyGreen}{}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyGreen}{}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyGreen}{fill=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyGreen}{fill=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyGreen}{fill=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyGreen}{pattern=horizontal lines,pattern color=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyGreen}{pattern=horizontal lines,pattern color=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyGreen}{pattern=horizontal lines,pattern color=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyViolet}{}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyViolet}{}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyViolet}{}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyViolet}{fill=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyViolet}{fill=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyViolet}{fill=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyViolet}{pattern=horizontal lines,pattern color=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyViolet}{pattern=horizontal lines,pattern color=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyViolet}{pattern=horizontal lines,pattern color=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyOrange}{}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyOrange}{}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyOrange}{}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyOrange}{fill=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyOrange}{fill=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyOrange}{fill=}{3}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyOrange}{pattern=horizontal lines,pattern color=}{1}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyOrange}{pattern=horizontal lines,pattern color=}{2}
+\end{figure}
+
+\newpage 
+
+\vspace*{-0.2cm}
+\begin{figure}[H]
+\centering 
+	\duck{MyOrange}{pattern=horizontal lines,pattern color=}{3}
+\end{figure}
+
